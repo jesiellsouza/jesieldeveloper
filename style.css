@@ -12,3 +12,8 @@ body {
 .card {
     margin-bottom: 20px;
 }
+
+#projects {
+    margin: auto;
+    justify-content: center;
+}
